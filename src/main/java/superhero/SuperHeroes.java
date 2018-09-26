@@ -7,7 +7,7 @@ import java.lang.reflect.Array;
 public class SuperHeroes {
     protected String name;
 
-    private String[] superPowers = {"Super Strength", "Super Speed", "Lazer eyes", "Flight", "Immortal"};
+    private String[] superPowers = {};
 
     public SuperHeroes(String name, String[] superPowers) {
         this.name = name;
@@ -22,7 +22,7 @@ public class SuperHeroes {
             return s;
         }
 
-return " something";
+
     }
 
 
