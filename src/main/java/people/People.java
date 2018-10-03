@@ -53,7 +53,7 @@ public class People {
 
     public String getArray(){
 
-       return personList.toString();
+       return person.toString();
 
     }
 
